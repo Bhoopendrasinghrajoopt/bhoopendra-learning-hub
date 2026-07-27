@@ -1,0 +1,3 @@
+variable "hotstar_VM" {
+
+}
