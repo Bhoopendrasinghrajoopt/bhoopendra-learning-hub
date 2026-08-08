@@ -1,0 +1,9 @@
+
+variable "st" {
+
+}
+variable "rg" {
+
+ 
+
+}

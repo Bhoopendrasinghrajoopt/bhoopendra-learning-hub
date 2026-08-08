@@ -15,3 +15,9 @@ variable "virtual_pip" {
 variable "virtual_vm" {
 
 }
+variable "nsg" {
+
+}
+variable "storage" {
+  
+}
