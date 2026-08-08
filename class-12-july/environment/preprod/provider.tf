@@ -7,8 +7,8 @@ terraform {
   }
   backend "azurerm" {
 
-    resource_group_name  = "terraform-backend-rg"
-    storage_account_name = "terraformstate123"
+    resource_group_name  = "rg-jumlebaaz"
+    storage_account_name = "jumlebaaz12131415"
     container_name       = "tfstate"
     key                  = "preprod.tfstate"
 
